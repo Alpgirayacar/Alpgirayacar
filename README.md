@@ -30,8 +30,6 @@ I aspire to contribute meaningfully to the industry with my skills and knowledge
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alpgiray-acar/)](https://www.linkedin.com/in/alpgiray-acar/)
 
 
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alpgirayacar/Alpgirayacar/output/github-contribution-grid-snake-dark.svg">
@@ -40,7 +38,9 @@ I aspire to contribute meaningfully to the industry with my skills and knowledge
   </picture>
 </p>
 
-
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 
 
 
