@@ -30,7 +30,7 @@ I aspire to contribute meaningfully to the industry with my skills and knowledge
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alpgiray-acar/)](https://www.linkedin.com/in/alpgiray-acar/)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Alpgirayacar&show_icons=true&theme=gradient) 
+
 
   
  <p align="center">
