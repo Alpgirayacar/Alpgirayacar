@@ -32,7 +32,7 @@ I aspire to contribute meaningfully to the industry with my skills and knowledge
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,php,laravel,kubernetes,docker,gcp,bootstrap,html,css,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,php,laravel,kubernetes,docker,gcp,bootstrap,html,css,git,github" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql,visualstudio,vscode,stackoverflow,postgres" /><br>
 </div>
 
