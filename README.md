@@ -32,6 +32,7 @@ I aspire to contribute meaningfully to the industry with my skills and knowledge
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Alpgirayacar&show_icons=true&theme=gradient) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
