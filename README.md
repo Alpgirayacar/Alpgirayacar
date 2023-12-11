@@ -11,5 +11,5 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Alpgirayacar) 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alpgiray-acar/)](https://www.linkedin.com/in/al
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link)]([https://www.linkedin.com/in/al](https://www.linkedin.com/in/alpgiray-acar/)https://www.linkedin.com/in/alpgiray-acar/).
 
