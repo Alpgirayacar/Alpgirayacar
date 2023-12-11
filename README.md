@@ -9,4 +9,4 @@
 - 💬 Ask me about C#, .Net or Html,Angular
 - 📫 How to reach me: Alpgirayacar@outlook.com
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/Alpgirayacar)https://github.com/Alpgirayacar) 
