@@ -29,7 +29,20 @@ I aspire to contribute meaningfully to the industry with my skills and knowledge
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Alpgirayacar) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alpgiray-acar/)](https://www.linkedin.com/in/alpgiray-acar/)
 
-![snake animation](https://github.com/<Alpgirayacar/Alpgirayacar/blob/output/github-contribution-grid-snake2.svg)
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,php,laravel,kubernetes,docker,gcp,bootstrap,html,css,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql,visualstudio,vscode,stackoverflow,postgres" /><br>
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
