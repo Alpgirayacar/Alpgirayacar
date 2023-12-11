@@ -3,6 +3,11 @@
 <!--
 **Alpgirayacar/Alpgirayacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div align="center">
+ <a href="https://github.com/Alpgirayacar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+Alpgiray+%F0%9F%98%BC;Alpgiray+Acar+%F0%9F%A4%93" alt="Typing SVG" />
+ </a>
+</div> 
 
 - 🔭 I’m currently working on MyFinallyProject
 - 🌱 I’m currently learning details of Spring boot
@@ -14,7 +19,8 @@
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Alpgirayacar&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Alpgirayacar&show_icons=true&theme=radical)
+
+
 
 
 
