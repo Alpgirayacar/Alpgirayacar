@@ -29,8 +29,7 @@ I aspire to contribute meaningfully to the industry with my skills and knowledge
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Alpgirayacar) 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alpgiray-acar/)](https://www.linkedin.com/in/alpgiray-acar/)
 
-![snake animation](https://github.com/Alpgirayacar/Alpgirayacar/blob/output/github-contribution-grid-snake2.svg)
-
+![snake animation](https://github.com/<Alpgirayacar/Alpgirayacar/blob/output/github-contribution-grid-snake2.svg)
 
 
 
